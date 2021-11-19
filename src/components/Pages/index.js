@@ -29,13 +29,13 @@ const Pages = ({ name }) => {
     },
 
     {
-      name: 'Workday Scheduler',
+      name: 'Code Command',
       category: 'Portfolio',
-      languages:"HTML / CSS / Javascript / Moment.js / Local storage",
-      image: "/assets/images/workdayvid.gif",
-      description: 'Web based day planner When the planner is opened, the current day is displayed at the top of the calendar, When the user views the time blocks for that day, each block is color-coded to indicate whether it is in the past, present, or future, When the user clicks a time block they are able to enter text that can be saved, Saved text persists when the browser is refreshed',
-      gitHub: "https://github.com/ratalla816/workday-scheduler",
-      deployment: "https://ratalla816.github.io/workday-scheduler",
+      languages:"React / GraphQL / Apollo Server Express / Redux / MongoDB",
+      image: "/assets/images/commandvid.gif",
+      description: 'Ecommerce website that allows users to purchase programming training courses in bundled packages, or à la carte.',
+      gitHub: "https://github.com/ratalla816/code-command",
+      deployment: "https://code-command-team.herokuapp.com/home",
     },
 
     {
