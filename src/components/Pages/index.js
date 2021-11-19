@@ -32,7 +32,7 @@ const Pages = ({ name }) => {
       name: 'Code Command',
       category: 'Portfolio',
       languages:"React / GraphQL / Apollo Server Express / Redux / MongoDB",
-      image: "/assets/images/commandvid.gif",
+      image: "/assets/images/commandvid2.gif",
       description: 'Ecommerce website that allows users to purchase programming training courses in bundled packages, or à la carte.',
       gitHub: "https://github.com/ratalla816/code-command",
       deployment: "https://code-command-team.herokuapp.com/home",
