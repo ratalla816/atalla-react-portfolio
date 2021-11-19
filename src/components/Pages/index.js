@@ -35,7 +35,7 @@ const Pages = ({ name }) => {
       image: "/assets/images/commandvid2.gif",
       description: 'Ecommerce website that allows users to purchase programming training courses in bundled packages, or à la carte.',
       gitHub: "https://github.com/ratalla816/code-command",
-      deployment: "https://code-command-team.herokuapp.com/home",
+      deployment: "https://code-command-team.herokuapp.com/",
     },
 
     {
