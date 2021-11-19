@@ -1,14 +1,14 @@
 # React Portfolio
 
-  ![badge](https://img.shields.io/github/languages/top/ratalla816/react-portfolio)
+  ![badge](https://img.shields.io/github/languages/top/ratalla816/atalla-react-portfolio)
   <br> 
-  ![badge](https://img.shields.io/github/languages/count/ratalla816/react-portfolio)
+  ![badge](https://img.shields.io/github/languages/count/ratalla816/atalla-react-portfolio)
   <br>
-  ![badge](https://img.shields.io/github/issues/ratalla816/react-portfolio)
+  ![badge](https://img.shields.io/github/issues/ratalla816/atalla-react-portfolio)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/ratalla816/react-portfolio)
+  ![badge](https://img.shields.io/github/issues-closed/ratalla816/atalla-react-portfolio)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/ratalla816/react-portfolio)
+  ![badge](https://img.shields.io/github/last-commit/ratalla816/atalla-react-portfolio)
   <br>
   ![badge](https://img.shields.io/badge/license-MIT-important)
   
@@ -79,7 +79,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
   - [Contact](#contact)
 
   ## Deployment
-  * This application is deployed with GitHub Pages <https://ratalla816.github.io/react-portfolio/>
+  * This application is deployed with GitHub Pages <https://ratalla816.github.io/atalla-react-portfolio/>
   
   ## Documentation
   
