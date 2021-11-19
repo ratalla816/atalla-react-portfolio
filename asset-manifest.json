@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/atalla-react-portfolio/static/css/main.89808a3a.chunk.css",
-    "main.js": "/atalla-react-portfolio/static/js/main.bcde3839.chunk.js",
-    "main.js.map": "/atalla-react-portfolio/static/js/main.bcde3839.chunk.js.map",
+    "main.js": "/atalla-react-portfolio/static/js/main.e4860849.chunk.js",
+    "main.js.map": "/atalla-react-portfolio/static/js/main.e4860849.chunk.js.map",
     "runtime-main.js": "/atalla-react-portfolio/static/js/runtime-main.b6bb4c31.js",
     "runtime-main.js.map": "/atalla-react-portfolio/static/js/runtime-main.b6bb4c31.js.map",
     "static/js/2.f33c1cca.chunk.js": "/atalla-react-portfolio/static/js/2.f33c1cca.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b6bb4c31.js",
     "static/js/2.f33c1cca.chunk.js",
     "static/css/main.89808a3a.chunk.css",
-    "static/js/main.bcde3839.chunk.js"
+    "static/js/main.e4860849.chunk.js"
   ]
 }
